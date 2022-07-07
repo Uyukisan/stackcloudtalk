@@ -34,6 +34,14 @@ https://cdn.jsdelivr.net/gh/Uyukisan/stackcloudtalk@main/source/pilibook.xbs
 ```
 https://cdn.jsdelivr.net/gh/Uyukisan/stackcloudtalk@main/source/pilibook2.xbs
 ```
+- 宝书网（网站关了）
+```
+https://cdn.jsdelivr.net/gh/Uyukisan/stackcloudtalk@main/source/baoshuw.xbs
+```
+- 趣书网（宝书网替代品）
+```
+https://cdn.jsdelivr.net/gh/Uyukisan/stackcloudtalk@main/source/qushuw.xbs
+```
 - 饭饭文学（需要登入）
 ```
 https://cdn.jsdelivr.net/gh/Uyukisan/stackcloudtalk@main/source/fanfanwx.xbs
