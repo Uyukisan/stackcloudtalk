@@ -19,7 +19,7 @@ https://cdn.jsdelivr.net/gh/Uyukisan/stackcloudtalk@main/source/6yue.xbs
 ```
 https://cdn.jsdelivr.net/gh/Uyukisan/stackcloudtalk@main/source/aozora_audio.xbs
 ```
-- 清风DJ
+- 清风DJ（无法播放，所以改成视频源）
 ```
 https://cdn.jsdelivr.net/gh/Uyukisan/stackcloudtalk@main/source/vvvjd.xbs
 ```
@@ -30,4 +30,16 @@ https://cdn.jsdelivr.net/gh/Uyukisan/stackcloudtalk@main/source/xinyuts.xbs
 - 听神马
 ```
 https://cdn.jsdelivr.net/gh/Uyukisan/stackcloudtalk@main/source/tingsm.xbs
+```
+
+- 全民听书
+
+```
+https://cdn.jsdelivr.net/gh/Uyukisan/stackcloudtalk@main/source/qmting.xbs
+```
+
+- 清风DJ（分类为视频源，实际上是音频源）
+
+```
+https://cdn.jsdelivr.net/gh/Uyukisan/stackcloudtalk@main/source/vvvjdv.xbs
 ```
