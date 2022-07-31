@@ -1,4 +1,17 @@
 ### Hello!⛄️
+
+- **Recommended**
+
+```
+https://github.com/Uyukisan/stackcloudtalk/blob/main/source/
+```
+
+- **Or**（cached）
+
+```
+https://cdn.jsdelivr.net/gh/Uyukisan/stackcloudtalk@main/source/
+```
+
 ```
 https://cdn.jsdelivr.net/gh/Uyukisan/stackcloudtalk@main/source/book.xbs
 ```
@@ -17,9 +30,7 @@ https://cdn.jsdelivr.net/gh/Uyukisan/stackcloudtalk@main/source/audio.md
 ```
 https://cdn.jsdelivr.net/gh/Uyukisan/stackcloudtalk@main/source/tool.md
 ```
-```
-https://cdn.jsdelivr.net/gh/Uyukisan/stackcloudtalk@main/source/
-```
+***
 
 ### Find me
 
