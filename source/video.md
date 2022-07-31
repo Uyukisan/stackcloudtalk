@@ -72,3 +72,10 @@ https://cdn.jsdelivr.net/gh/Uyukisan/stackcloudtalk@main/source/raogun.xbs
 ```
 https://cdn.jsdelivr.net/gh/Uyukisan/stackcloudtalk@main/source/ysjdm.xbs
 ```
+
+- BIGO LIVE
+
+```
+https://cdn.jsdelivr.net/gh/Uyukisan/stackcloudtalk@main/source/bigo_live.xbs
+```
+
