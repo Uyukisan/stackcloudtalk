@@ -79,3 +79,9 @@ https://cdn.jsdelivr.net/gh/Uyukisan/stackcloudtalk@main/source/ysjdm.xbs
 https://cdn.jsdelivr.net/gh/Uyukisan/stackcloudtalk@main/source/bigo_live.xbs
 ```
 
+- 新片场（优质视频）
+
+```
+https://cdn.jsdelivr.net/gh/Uyukisan/stackcloudtalk@main/source/xinpianchang.xbs
+```
+
