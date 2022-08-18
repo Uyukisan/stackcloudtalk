@@ -58,7 +58,13 @@ https://cdn.jsdelivr.net/gh/Uyukisan/stackcloudtalk@main/source/ranwen1.xbs
 ```
 https://cdn.jsdelivr.net/gh/Uyukisan/stackcloudtalk@main/source/2kxs.xbs
 ```
+- 必去读书库
+```
+https://cdn.jsdelivr.net/gh/Uyukisan/stackcloudtalk@main/source/biqusk.xbs
+```
+
 - Kissmanga（英文漫画）
+
 ```
 https://cdn.jsdelivr.net/gh/Uyukisan/stackcloudtalk@main/source/kissmanga.xbs
 ```
