@@ -85,3 +85,9 @@ https://cdn.jsdelivr.net/gh/Uyukisan/stackcloudtalk@main/source/bigo_live.xbs
 https://cdn.jsdelivr.net/gh/Uyukisan/stackcloudtalk@main/source/xinpianchang.xbs
 ```
 
+- 嘛哩嘛哩
+
+```
+https://cdn.jsdelivr.net/gh/Uyukisan/stackcloudtalk@main/source/malimali.xbs
+```
+
