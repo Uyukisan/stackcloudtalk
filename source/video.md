@@ -91,3 +91,13 @@ https://cdn.jsdelivr.net/gh/Uyukisan/stackcloudtalk@main/source/xinpianchang.xbs
 https://cdn.jsdelivr.net/gh/Uyukisan/stackcloudtalk@main/source/malimali.xbs
 ```
 
+- 久久动漫
+
+```
+https://cdn.jsdelivr.net/gh/Uyukisan/stackcloudtalk@main/source/995dm.xbs
+```
+
+```
+https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/995dm.xbs
+```
+
