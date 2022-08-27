@@ -101,3 +101,13 @@ https://cdn.jsdelivr.net/gh/Uyukisan/stackcloudtalk@main/source/995dm.xbs
 https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/995dm.xbs
 ```
 
+- 次元城动漫
+
+```
+https://cdn.jsdelivr.net/gh/Uyukisan/stackcloudtalk@main/source/cycacg.xbs
+```
+
+```
+https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/cycacg.xbs
+```
+

@@ -63,6 +63,16 @@ https://cdn.jsdelivr.net/gh/Uyukisan/stackcloudtalk@main/source/2kxs.xbs
 https://cdn.jsdelivr.net/gh/Uyukisan/stackcloudtalk@main/source/biqusk.xbs
 ```
 
+- 爱阅书香
+
+```
+https://cdn.jsdelivr.net/gh/Uyukisan/stackcloudtalk@main/source/aiyueshu.xbs
+```
+
+```
+https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/aiyueshu.xbs
+```
+
 - Kissmanga（英文漫画）
 
 ```
