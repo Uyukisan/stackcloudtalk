@@ -3,6 +3,12 @@
 - **Recommended**
 
 ```
+https://source.stackblog.eu.org
+```
+
+- **Recommended**
+
+```
 https://github.com/Uyukisan/stackcloudtalk/blob/main/source/
 ```
 
@@ -36,12 +42,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/ma
 
 ```
 https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/tool.md
-```
-
-- **Or**
-
-```
-https://source.stackblog.eu.org
 ```
 
 ## Find me
