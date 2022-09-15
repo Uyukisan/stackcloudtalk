@@ -73,6 +73,12 @@ https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/ma
 https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/ysjdm.xbs
 ```
 
+- 异世界动漫2（新域名)
+
+```
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/ysjdm2.xbs
+```
+
 - BIGO LIVE
 
 ```
