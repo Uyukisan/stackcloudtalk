@@ -69,6 +69,20 @@ https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/ma
 https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/aiyueshu.xbs
 ```
 
+- 推书君
+
+> 索引源、推书、广场、精选书单
+
+```
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/tuishujun.xbs
+```
+
+- 不可能的世界
+
+```
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/8kana.xbs
+```
+
 - Kissmanga（英文漫画）
 
 ```
