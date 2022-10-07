@@ -109,3 +109,9 @@ https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/ma
 https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/cycacg.xbs
 ```
 
+- 哔哩动画
+
+```
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/bilianime.xbs
+```
+

@@ -83,6 +83,12 @@ https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/ma
 https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/8kana.xbs
 ```
 
+- 笔趣阁abc
+
+```
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/biqugeabc.xbs
+```
+
 - Kissmanga（英文漫画）
 
 ```
