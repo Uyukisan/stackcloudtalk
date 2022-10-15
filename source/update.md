@@ -197,3 +197,11 @@ https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/ma
 https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/ddmh.xbs
 ```
 
+- 包子漫画
+
+> 源密码：stacksensei
+
+```
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/baozimh.xbs
+```
+

@@ -46,11 +46,13 @@ https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/ma
 
 ## Find me
 
-- [小栈的云仓库](https://cloud.stackblog.eu.org)
+- [Stack's Blog](https://stackblog.cf)
 ```
-https://cloud.stackblog.eu.org
+https://stackblog.cf
 ```
-- [coding.net](https://onericetwowine.coding.net/public/Onerice/Onerice/git/files)
+
+- [小栈的云仓库](https://repo.stackblog.eu.org)
+
 ```
-https://onericetwowine.coding.net/public/Onerice/Onerice/git/files
+https://repo.stackblog.eu.org
 ```
