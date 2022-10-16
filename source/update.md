@@ -205,3 +205,11 @@ https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/ma
 https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/baozimh.xbs
 ```
 
+- 动漫之家m
+
+> 源密码：stacksensei
+
+```
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/dmzjm.xbs
+```
+
