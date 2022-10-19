@@ -213,3 +213,23 @@ https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/ma
 https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/dmzjm.xbs
 ```
 
+- 松鼠下拉式漫画（10.19）
+
+> 源密码：stacksensei
+
+```
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/songshumh.xbs
+```
+
+- vomic漫画（很推荐👍，建议置顶使用，10.19）
+
+> 漫画聚合源，可以从多个网站获取漫画资源，妈妈再也不用担心我找不到漫画啦😏
+
+```
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/vomic1.xbs
+```
+
+```
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/vomic2.xbs
+```
+
