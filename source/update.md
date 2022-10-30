@@ -89,6 +89,22 @@ https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/ma
 https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/biqugeabc.xbs
 ```
 
+- 飘天文学（繁体小说，10.30）
+
+> 源密码：stacksensei
+
+```
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/piaotian.xbs
+```
+
+- 飘天文学（简体小说，10.30)
+
+> 源密码：stacksensei
+
+```
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/piaotian_sc.xbs
+```
+
 - Kissmanga（英文漫画）
 
 ```
