@@ -105,6 +105,12 @@ https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/ma
 https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/piaotian_sc.xbs
 ```
 
+- 星空小说（可能需要科学上网）
+
+```
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/aixs.xbs
+```
+
 - Kissmanga（英文漫画）
 
 ```

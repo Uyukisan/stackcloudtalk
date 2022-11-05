@@ -14,3 +14,10 @@ https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/ma
 ```
 https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/mobileplace.xbs
 ```
+
+- 天干地支（比如查询：1996/1/1或1996年1月1日）
+
+```
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/tiangandizhi.xbs
+```
+
