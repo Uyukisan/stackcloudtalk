@@ -105,10 +105,36 @@ https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/ma
 https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/piaotian_sc.xbs
 ```
 
-- 星空小说（可能需要科学上网）
+- 星空小说（可能需要科学上网，11.5）
 
 ```
 https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/aixs.xbs
+```
+
+- 完本神站（11.7，搜索无法用，但可以使用在线书架)
+
+> **书架使用方法**
+>
+> 1. 用浏览器访问：https://www.wanben.org，
+>
+> 2. 注册登录账号：https://www.wanben.org/login.php
+>
+> 3. 搜索相关书，比如“这只妖怪不太冷”，找到书后，点击收藏，可以先多收藏几本书
+>
+> 4. 打开【香色闺阁】，点击【发现】，找到和切换至站点“完本神站⛄️”
+>
+> 5. 进入分类页面，随便点击一本书，打开这本书的目录，选择一个章节，进入正文
+>
+> 6. 点击右上角的**三个点**的按钮，点击【站点登录】，进入登录页面后，输入刚才注册的账号和密码，记得勾选“**记住我**”，然后登入
+>
+> 7. 登入完成后返回，最好关闭【香色闺阁】，同时退出【香色闺阁】的后台
+>
+> 8. 重新打开【香色闺阁】，点击【发现】，找到和切换至站点“完本神站⛄️”
+>
+> 9. 进入分类页面后，切换到【**书架**】，就可以看到你登录账号收藏的书籍了。
+
+```
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/wanben.xbs
 ```
 
 - Kissmanga（英文漫画）
