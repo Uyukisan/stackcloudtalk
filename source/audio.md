@@ -50,3 +50,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/ma
 https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/tingxiaoshuo.xbs
 ```
 
+- 爱听书(2022.11.24)
+
+> 有的书籍虽然可以获取到音频，但是香色闺阁播放不了，经过测试决定删除它
+
