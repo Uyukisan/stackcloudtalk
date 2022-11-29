@@ -6,9 +6,7 @@
 https://source.stackblog.cf
 ```
 
-```
-https://source.stackblog.eu.org
-```
+~~```https://source.stackblog.eu.org```~~
 
 - **Recommended**
 

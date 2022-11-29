@@ -126,3 +126,11 @@ https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/ma
 ```
 https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/eacg.xbs
 ```
+
+- 多多视频（人人影视，2022.11.28）
+
+> 🆓：表示免费可以播放，🔒：表示vip或付费播放不了
+
+```
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/rrtv.xbs
+```
