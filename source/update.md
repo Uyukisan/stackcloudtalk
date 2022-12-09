@@ -137,6 +137,12 @@ https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/ma
 https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/wanben.xbs
 ```
 
+- 顶点小说（2022.12.9）
+
+```
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/ddxs.xbs
+```
+
 - Kissmanga（英文漫画）
 
 ```

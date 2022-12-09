@@ -34,3 +34,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/ma
 https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/tool.md
 ```
 
+***
+
+**软件的使用、安装等：https://stackblog.cf/posts/8839/**
