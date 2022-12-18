@@ -54,3 +54,9 @@ https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/ma
 
 > 有的书籍虽然可以获取到音频，但是香色闺阁播放不了，经过测试决定删除它
 
+- 听书网（2022.12.18）
+
+```
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/tingbook.xbs
+```
+

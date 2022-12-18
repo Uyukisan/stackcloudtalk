@@ -143,6 +143,12 @@ https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/ma
 https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/ddxs.xbs
 ```
 
+- shenbabao小说（2022.12.17）
+
+```
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/shenbabao.xbs
+```
+
 - Kissmanga（英文漫画）
 
 ```
