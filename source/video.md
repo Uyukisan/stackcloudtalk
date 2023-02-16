@@ -103,7 +103,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/ma
 https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/995dm.xbs
 ```
 
-- 次元城动漫
+- 次元城动漫(2022.12.23)
 
 ```
 https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/cycacg.xbs

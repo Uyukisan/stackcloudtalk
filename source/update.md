@@ -149,6 +149,12 @@ https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/ma
 https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/shenbabao.xbs
 ```
 
+- 银子5A网（2023.1.3）
+
+```
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/yz5a.xbs
+```
+
 - Kissmanga（英文漫画）
 
 ```
@@ -263,6 +269,14 @@ https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/ma
 
 ```
 https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/baozimh.xbs
+```
+
+- 包子漫画2
+
+> 源密码：stacksensei
+
+```
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/baozimh2.xbs
 ```
 
 - 动漫之家m
