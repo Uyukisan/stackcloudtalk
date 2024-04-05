@@ -2,7 +2,9 @@
 
 - **Recommended**
 
-~~```https://source.stackblog.cf```~~
+```
+https://source.stackblog.cf
+```
 
 ```
 https://source.stackblog.eu.org
