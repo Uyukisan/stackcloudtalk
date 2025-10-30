@@ -1,62 +1,21 @@
 ### Hello!⛄️
 
 - **Recommended**
-
+> 随缘更新
 ```
 https://source.stackblog.cf
 ```
+- **Deprecated**
 
 ```
-https://source.stackblog.eu.org
+https://source.stackblog.cf/old/
 ```
 
-- **Recommended**
+## 碎碎念
+2025年了，私以为香色闺阁仍是iOS里面最小而美的阅读app，无奈的是无法再更新了。
 
-```
-https://github.com/Uyukisan/stackcloudtalk/blob/main/source/
-```
+曾在2024年尝试开发过一款类似的app，取之名为Novic，原先的计划是实现视频、漫画、小说等功能，也初步实现了阅读小说的功能；不过最终，因为工作原因搁浅了哈哈。
 
-- **jsdelivr**
+现在也有一些比较好用的app，比如，我现在看漫画用Aidoku，看动漫用Kazumi、Animeko；不过这些app都不太可能上架应用商店，只能通过Altstore+LiveContainer等方式来安装使用 #[笑]
 
-```
-https://cdn.jsdelivr.net/gh/Uyukisan/stackcloudtalk@main/source/
-```
-
-- **ghproxy**
-
-```
-https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/book.xbs
-```
-
-```
-https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/comic.xbs
-```
-
-```
-https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/update.md
-```
-
-```
-https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/audio.md
-```
-
-```
-https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/video.md
-```
-
-```
-https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/tool.md
-```
-
-## Find me
-
-- [Stack's Blog](https://stackblog.cf)
-```
-https://stackblog.cf
-```
-
-- [小栈的云仓库](https://repo.stackblog.eu.org)
-
-```
-https://repo.stackblog.eu.org
-```
+祝好运，bye~
